@@ -1,9 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=80&text=gm8z&fontSize=40&fontColor=ffffff&animation=twinkling)
+<p align="center">
+  <img src="./banner.png" width="100%" alt="banner" />
+</p>
 
-building things that work.
+<hr>
 
-luau / roblox systems — html / web — mostly private work
+<p align="center">
+  18 yr old • roblox & web developer<br>
+  📧 <code>your@email.com</code> • 🔗 <code>@2ph8</code> on discord<br>
+  most of my work lives on discord, not here.
+</p>
 
----
+<hr>
 
-*don't ask what i'm working on.*
+### ୨୧ ➜ stack
+
+<code>luau</code> <code>html</code> <code>python</code>
+
+### ୨୧ ➜ backend / infra
+
+<code>cloudflare</code>
+
+### ୨୧ ➜ tools
+
+<code>roblox studio</code> <code>vs code</code> <code>git</code>
+
+### ୨୧ ➜ projects
+
+<code>fade</code> <code>rex hood</code>
+
+### ୨୧ ➜ learning
+
+<code>css</code> <code>javascript</code>
+
+<hr>
